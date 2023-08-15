@@ -1,0 +1,2 @@
+pywin32==306
+virtualenv==20.24.3
