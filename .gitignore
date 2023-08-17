@@ -1,3 +1,4 @@
 service.log
 *.pyc
+*.log
 __pycache__
